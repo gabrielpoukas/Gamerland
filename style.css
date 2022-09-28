@@ -31,8 +31,15 @@ padding: 0px;
 
 body{
 
+height: 98vh;
 background-color: #E35B7D;
 font-family: var(--fonte-padrao);
+background-image: url('https://i.pinimg.com/564x/12/a0/92/12a0924d000df98cf5dd91561097618d.jpg');
+background-repeat: no-repeat;
+background-position:  center center;
+background-size: cover;
+background-attachment: fixed;
+
 
 
 }
