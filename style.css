@@ -282,12 +282,25 @@ text-decoration: underline;
 
 }
 
+
+
+#tabela{
+
+padding: 8px;
+border-radius: 10px;
+margin: 2px;
+
+}
+
+
+
 ul{
 
 list-style-type: '\2714\00A0';
 list-style-position: inside;
+color: #D7E5ED;
 columns: 2;
-background-image:linear-gradient( to bottom, #D67A72,#fadec3dc);
+background-image: url(imagens/gamer.jpg);
 font-weight: bold;
 
 }
